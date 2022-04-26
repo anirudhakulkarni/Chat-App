@@ -8,6 +8,10 @@
 3. ERROR102 - Unable to send
 4. ERROR103 - Header incomplete - closes connection
 
+### Installation:
+
+No libraries required
+
 ### References:
 
 - Most comprehensive tutorial on socket programming : https://medium.com/iothincvit/socket-programming-f7f476df4bc5
