@@ -1,0 +1,4 @@
+c:
+	python client.py
+s:
+	python server.py
